@@ -1,4 +1,4 @@
-Flask==3.0.1
+flask
 Flask-Cors==4.0.0
 keras==2.15.0
 Keras-Preprocessing==1.1.2
@@ -12,5 +12,3 @@ scipy==1.12.0
 tensorflow==2.15.0
 torch==2.2.0
 torchvision==0.17.0
-
-
